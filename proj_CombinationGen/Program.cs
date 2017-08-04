@@ -12,7 +12,8 @@ namespace Permutations
         {
             try
             {
-                dowork();
+                //dowork();
+
             }
             catch (Exception e)
             {

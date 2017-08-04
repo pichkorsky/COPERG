@@ -1,1 +1,16 @@
-abcde
+abcde   abcdefg
+
+abc		abc
+abd		abd
+abe		abe
+acd		abf
+ace		abg
+bcd		acd
+bce		ace
+bde		acf
+cde		acg
+		ade
+		adf
+		adg
+		aef
+		aeg
