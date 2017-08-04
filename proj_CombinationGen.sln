@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.26430.16
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "proj_CombinationGen", "proj_CombinationGen\proj_CombinationGen.csproj", "{1C52B372-0965-4903-AE18-00E5BD8EA021}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Permutations", "proj_CombinationGen\Permutations.csproj", "{1C52B372-0965-4903-AE18-00E5BD8EA021}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

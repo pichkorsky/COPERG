@@ -39,9 +39,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="CombinationGen.cs" />
+    <Compile Include="Logic.cs" />
+    <Compile Include="Generator_of_combinations.cs" />
+    <Compile Include="Generator_of_permutations.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Vault.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
